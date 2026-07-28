@@ -7,7 +7,7 @@
 
 ### 方法一：直接下载整合包（推荐）
 
-内含纯净版Comfyui，直接下载、解压即可直接使用
+内含纯净版Comfyui，下载解压即可直接使用
 <p>
   夸：https://pan.quark.cn/s/1d2bd5da10fa
 </p>
