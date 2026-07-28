@@ -8,11 +8,15 @@
 ### 方法一：直接下载整合包（推荐）
 
 内含纯净版Comfyui，直接下载、解压即可直接使用
-夸：https://pan.quark.cn/s/1d2bd5da10fa
-度: https://pan.baidu.com/s/1sIqAJT_Y4iaGpCVWGH1yow?pwd=cgmi 提取码: cgmi 
-
+<p>
+  夸：https://pan.quark.cn/s/1d2bd5da10fa
+</p>
+<p>
+  度: https://pan.baidu.com/s/1sIqAJT_Y4iaGpCVWGH1yow?pwd=cgmi 提取码: cgmi 
+</p>
+<p>
 ### 方法二：完全手动部署
-
+</p>
 步骤1：
 CG迷Comfyui助手只适合和原版Comfyui搭配使用，不能用于其他启动器的整合包。
 首先下载Comfyui原版官方程序并解压：https://github.com/comfyanonymous/ComfyUI/releases
