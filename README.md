@@ -39,6 +39,7 @@ CG迷Comfyui助手默认需要调用同目录下的python、git文件夹，
 
 
 ### B站视频版使用教程：
+https://www.bilibili.com/video/BV1Mm3Y6zEVc
 
 ### 文字版使用教程：
 [CG迷ComfyUI助手软件说明.pptx](https://github.com/user-attachments/files/30395748/CG.ComfyUI.1.pptx)
