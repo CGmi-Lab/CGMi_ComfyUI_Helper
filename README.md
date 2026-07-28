@@ -31,7 +31,7 @@ https://github.com/CGmi-Lab/CGMi_ComfyUI_Helper/releases 下载解压CGMi_ComfyU
 ### 方法三：完全手动部署
 
 步骤1：
-CG迷Comfyui助手只适合和原版Comfyui搭配使用，不能用于其他启动器的整合包。
+此部署适用于全新安装Comfyui使用
 首先下载Comfyui原版官方程序并解压：https://github.com/comfyanonymous/ComfyUI/releases
 
 步骤2：
