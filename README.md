@@ -7,6 +7,10 @@
 
 ### 方法一：直接下载整合包（推荐）
 
+内含纯净版Comfyui，直接下载、解压即可直接使用
+夸：https://pan.quark.cn/s/1d2bd5da10fa
+度: https://pan.baidu.com/s/1sIqAJT_Y4iaGpCVWGH1yow?pwd=cgmi 提取码: cgmi 
+
 ### 方法二：完全手动部署
 
 步骤1：
