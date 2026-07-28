@@ -32,6 +32,7 @@ https://github.com/CGmi-Lab/CGMi_ComfyUI_Helper/releases 下载解压CGMi_ComfyU
 
 步骤1：
 此部署适用于全新安装Comfyui使用
+
 首先下载Comfyui原版官方程序并解压：https://github.com/comfyanonymous/ComfyUI/releases
 
 步骤2：
