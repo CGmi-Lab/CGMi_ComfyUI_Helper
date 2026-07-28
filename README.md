@@ -5,7 +5,7 @@
 
 ## 使用方法
 
-### 方法一：直接下载整合包（推荐）
+### 方法一：直接下载整合包
 
 内含纯净版Comfyui，下载解压即可直接使用
 <p>
@@ -17,7 +17,18 @@
 
 <br>
 
-### 方法二：完全手动部署
+### 方法二：替换秋叶启动器
+CG迷Comfyui助手是可以直接部署在秋叶整合包里面的
+
+步骤1：
+https://github.com/CGmi-Lab/CGMi_ComfyUI_Helper/releases 下载解压CGMi_ComfyUI_Helper，把CGMi_ComfyUI_Helper的所有文件（如版本内容文件夹、CGMi_ComfyUI_Helper.exe、translations文件夹），
+
+步骤2：
+把上面的文件，直接放置到秋叶整合包的根目录里面，就可以双启动器一起用了。（具体操作，可以看最下方视频教程的10分27秒的讲解）
+
+<br>
+
+### 方法三：完全手动部署
 
 步骤1：
 CG迷Comfyui助手只适合和原版Comfyui搭配使用，不能用于其他启动器的整合包。
